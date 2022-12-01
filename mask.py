@@ -29,4 +29,4 @@ if __name__ == '__main__':
   dxf.circle('wafer', 0, 0, cfg.size, 0, 90, 91)
   dxf.circle('wafer', cfg.size, 0, cfg.size, 90, 180, 91)
 
-  dev.saveas('SOA V0.1')
+  dev.saveas('SOA V1.0')
